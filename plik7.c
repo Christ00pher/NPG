@@ -2,6 +2,7 @@
 // Data:   10.05.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //---------------------------
+//additional comment
 
 #include <iostream>
 
