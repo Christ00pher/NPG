@@ -1,7 +1,7 @@
 // Wyszukiwanie wzorca algorytmem KR
 // Data:  4.07.2008
 // (C)2012 mgr Jerzy Wałaszek
-//-----------------------------
+//------------------------------
 
 #include <iostream>
 #include <string>
